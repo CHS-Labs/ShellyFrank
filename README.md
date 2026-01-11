@@ -2,7 +2,9 @@
 
 **Fractional CMO | Strategic Co-Pilot | Systems & Credibility Architect**
 
-Saskatoon, Saskatchewan, Canada | Working remotely, globally
+[![Location](https://img.shields.io/badge/Saskatoon,%20SK-Canada-blue?style=flat-square)](https://shellyfrank.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shellyfrank-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shellyfrank)
+[![Website](https://img.shields.io/badge/Web-shellyfrank.com-black?style=flat-square&logo=safari)](https://shellyfrank.com)
 
 ---
 
@@ -45,11 +47,4 @@ My stack typically includes automation tools (Make, n8n), data systems (Airtable
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/shellyfrank)
-- [Website](https://shellyfrank.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHS-Labs&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+Reach out via [LinkedIn](https://www.linkedin.com/in/shellyfrank) or visit [shellyfrank.com](https://shellyfrank.com).
