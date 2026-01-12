@@ -16,6 +16,8 @@ I help technical founders and thought leaders turn complex ideas into clear, dur
 
 My work emphasizes **structure before scale**, **credibility before visibility**, and **human-in-the-loop design**.
 
+[Work With Me](https://work-with-shelly.bolt.host/)
+
 ---
 
 ## What I'm Known For
