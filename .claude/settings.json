@@ -10,8 +10,7 @@
       "Read",
       "WebFetch",
       "WebSearch",
-      "Write",
-      "mcp__*"
+      "Write"
     ]
   }
 }
